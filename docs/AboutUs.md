@@ -11,6 +11,12 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
+### Ian Sin
+
+<img src="images/iansine.png" width="200px">
+
+[[github](https://github.com/iansine)]
+
 ### Jonathan Koh
 
 <img src="images/jonkohzy.png" width="200px">
