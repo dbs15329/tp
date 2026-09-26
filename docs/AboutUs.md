@@ -11,6 +11,12 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
+### Jonathan Koh
+
+<img src="images/jonkohzy.png" width="200px">
+
+[[github](https://github.com/jonkohzy)]
+
 ### John Doe
 
 <img src="images/johndoe.png" width="200px">
