@@ -23,6 +23,10 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](https://github.com/jonkohzy)]
 
+* Role: Developer
+* Responsibilities: Code quality
+  * Looks after code quality, ensures adherence to coding standards, etc.
+
 ### John Doe
 
 <img src="images/johndoe.png" width="200px">
