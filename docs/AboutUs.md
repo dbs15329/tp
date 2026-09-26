@@ -18,14 +18,18 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](https://github.com/iansine)]
 
 * Role: Developer
-* Responsibilities: Integration
-  * In charge of versioning the code, maintaining the code repository, and integrating various parts of the software to create a whole.
+* Responsibilities:  
+  * Integration: In charge of versioning the code, maintaining the code repository, and integrating various parts of the software to create a whole.
 
 ### Jonathan Koh
 
 <img src="images/jonkohzy.png" width="200px">
 
 [[github](https://github.com/jonkohzy)]
+
+* Role: Developer
+* Responsibilities: 
+  * Code quality: Looks after code quality, ensures adherence to coding standards, etc.
 
 ### Dhanush Bhoja Shetty
 
@@ -34,7 +38,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](https://github.com/dbs15329)]
 
 * Role: Developer
-* Responsibilities: Testing
+* Responsibilities: 
+  * Testing: Ensures the testing of the project is done properly and on time.
 
 ### Wesley Tay
 
@@ -43,7 +48,9 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](https://github.com/WesleyTay25)]
 
 * Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Responsibilities:
+  * Documentation: Responsible for the quality of various project documents.
+  * Deliverables and Deadlines: Ensures project deliverables are done on time and in the right format.
 
 ### Chester Lim Yi Jie
 
