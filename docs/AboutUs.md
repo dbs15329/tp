@@ -17,25 +17,16 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](https://github.com/iansine)]
 
+* Role: Developer
+* Responsibilities: Integration
+  * In charge of versioning the code, maintaining the code repository, and integrating various parts of the software to create a whole.
+
 ### Jonathan Koh
 
 <img src="images/jonkohzy.png" width="200px">
 
 [[github](https://github.com/jonkohzy)]
 
-* Role: Developer
-* Responsibilities: Code quality
-  * Looks after code quality, ensures adherence to coding standards, etc.
-
-### John Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Project Advisor
 
 ### Jane Doe
 
@@ -45,15 +36,6 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Team Lead
 * Responsibilities: UI
-
-### Johnny Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: Data
 
 ### Wesley Tay
 
@@ -70,5 +52,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](https://github.com/chesterlim2004)]
 
-* Role: Developer
-* Responsibilities: UI
+* Role: Team Lead
+* Responsibilities:
+  * Team Lead: Responsible for overall project coordination.
+  * Scheduling and tracking: In charge of defining, assigning, and tracking project tasks.
