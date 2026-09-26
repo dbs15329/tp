@@ -27,15 +27,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](https://github.com/jonkohzy)]
 
-
-### Jane Doe
+### Dhanush Bhoja Shetty
 
 <img src="images/dbs15329.png" width="200px">
 
 [[github](https://github.com/dbs15329)]
 
-* Role: Team Lead
-* Responsibilities: UI
+* Role: Developer
+* Responsibilities: Testing
 
 ### Wesley Tay
 
