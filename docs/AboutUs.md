@@ -17,6 +17,10 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](https://github.com/iansine)]
 
+* Role: Developer
+* Responsibilities: Integration
+  * In charge of versioning the code, maintaining the code repository, and integrating various parts of the software to create a whole.
+
 ### Jonathan Koh
 
 <img src="images/jonkohzy.png" width="200px">
