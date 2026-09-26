@@ -1,24 +1,62 @@
-[![CI Status](https://github.com/AY2627S1-CS2103T-W13-1/tp/workflows/Java%20CI/badge.svg)](https://github.com/AY2627S1-CS2103T-W13-1/tp/actions)
-[![codecov](https://codecov.io/gh/AY2627S1-CS2103T-W13-1/tp/branch/master/graph/badge.svg)](https://codecov.io/gh/AY2627S1-CS2103T-W13-1/tp)
-
-![Ui](docs/images/Ui.png)
-
 # CouchCoach
 
-**CouchCoach** is a desktop application for **coaches of any sports team** to keep track of their
-players and their details.
+[![Java CI](https://github.com/AY2627S1-CS2103T-W13-1/tp/actions/workflows/gradle.yml/badge.svg)](https://github.com/AY2627S1-CS2103T-W13-1/tp/actions/workflows/gradle.yml)
+[![codecov](https://codecov.io/gh/AY2627S1-CS2103T-W13-1/tp/branch/master/graph/badge.svg)](https://codecov.io/gh/AY2627S1-CS2103T-W13-1/tp)
 
-* Coaches find it troublesome to keep track of their players and their specific details, especially
-  when they are ranking or cutting the team.
-* CouchCoach provides a clear overview of all players, with fast lookup, custom categorisations,
-  amend and remark functionality, and a system to evaluate player performance.
-* It is optimised for users who prefer typing: most interactions happen through a Command Line
-  Interface (CLI), while still providing the benefits of a Graphical User Interface (GUI).
+CouchCoach is a desktop app for sports coaches who need a quick way to keep
+track of players during trials and team selection. It combines a command box
+for fast keyboard use with a graphical list of player records.
 
-For the detailed documentation of this project, see the
-**[CouchCoach Product Website](https://ay2627s1-cs2103t-w13-1.github.io/tp/)**.
+## What you can do
+
+The current version lets you:
+
+- Add players with a name, phone number, email address, and address.
+- Give players custom tags, such as a position or trial group.
+- List players and find them by name.
+- Edit or delete a player using their number in the displayed list.
+- Clear the list when starting a new set of records.
+- Save changes automatically to a local JSON file.
+
+Player ratings and selection decisions are planned for later versions; they
+are not available in the current app.
+
+## Get started
+
+Install Java 25, clone this repository, and run the app from the repository
+root:
+
+```bash
+./gradlew run
+```
+
+Enter commands in the command box. For example:
+
+```text
+add n/Tan Wei Ming p/91234567 e/wei@example.com a/123 Clementi Road t/goalkeeper
+find Tan
+list
+```
+
+Type `help` to open the in-app help page. Player data is saved in
+`data/addressbook.json` relative to the directory from which you run the app.
+
+For command details, see the [User Guide](docs/UserGuide.md). For setup,
+architecture, and testing information, see the
+[Developer Guide](docs/DeveloperGuide.md).
+
+## Development
+
+Run the project checks with Java 25:
+
+```bash
+./gradlew check
+```
+
+CouchCoach is built with Java and JavaFX. It uses Gradle for builds and Jackson
+for local data storage.
 
 ## Acknowledgements
 
-This project is based on the **AddressBook-Level3** project created by the
-[SE-EDU initiative](https://se-education.org).
+CouchCoach is based on [AddressBook Level 3](https://github.com/se-edu/addressbook-level3)
+by the [SE-EDU initiative](https://se-education.org/).
